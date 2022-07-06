@@ -75,7 +75,7 @@ header {
 /* Hero */
 
 #hero {
-  background: url("assets/salon-hero-img.png");
+  background: url("./assets/salon-hero-img.png");
   background-size: cover;
 	background-position: right;
 	height: 90vh;
@@ -175,7 +175,7 @@ header {
   margin: 4% auto 2% auto;
 }
 .offer-container {
-  background-image: url('/assets/salon-content-area.jpg');
+  background-image: url('./assets/salon-content-area.jpg');
   background-size: 100%;
   padding: 4rem;
   background-repeat: no-repeat;
@@ -220,7 +220,7 @@ header {
   
 }
 .momentum-video {
-  background: url("/assets/poster.jpg") no-repeat center;
+  background: url("./assets/poster.jpg") no-repeat center;
   width: 100%;
   
 
