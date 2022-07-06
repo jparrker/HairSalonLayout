@@ -75,7 +75,7 @@ header {
 /* Hero */
 
 #hero {
-  background: url("/assets/salon-hero-img.png");
+  background: url("assets/salon-hero-img.png");
   background-size: cover;
 	background-position: right;
 	height: 90vh;
