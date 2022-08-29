@@ -1,6 +1,6 @@
 # Business/Hair salon layout
 
-Mobile responsive front end for a hair salon coded from provided wireframe.
+Mobile responsive layout for a hair salon coded from provided wireframe.
 
 **Link to project:** https://jparrker.github.io/HairSalonLayout/
 
